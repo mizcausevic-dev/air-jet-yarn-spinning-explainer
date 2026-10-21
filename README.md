@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/air-jet-yarn-spinning-explainer/
 
+Repository: https://github.com/mizcausevic-dev/air-jet-yarn-spinning-explainer
+
 ## What this is
 
 An interactive anatomy plate for Air-Jet Yarn Spinning. Play, scrub, or jump the five stages. The same frame always draws the same picture.
